@@ -1,0 +1,9 @@
+torch
+numpy
+tqdm
+gradio
+scikit-image
+albumentations
+pandas
+pytorch-lightning
+seaborn

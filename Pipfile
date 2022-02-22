@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scikit-image = "*"
+albumentations = "*"
+pandas = "*"
+pillow = "==8.4.0"
+jupyterlab = "*"
+tqdm = "*"
+tensorboard = "*"
+matplotlib = "*"
+gradio = "*"
+seaborn = "*"
+
+[dev-packages]
+torch-tb-profiler = "*"
+tensorboard = "*"
+
+[requires]
+python_version = "3.10"

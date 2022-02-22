@@ -1,0 +1,22 @@
+# input data
+archive/
+dataset/
+dataset-preprocess/
+input/*
+input/archive.zip
+
+# output / models
+model.pt
+best_model.pt
+
+# tmp files
+__pycache__
+.ipynb_checkpoints
+Pipfile.lock
+
+notes.txt
+notes.md
+output/*
+!output/predictions/
+checkpoints
+lightning_logs/
